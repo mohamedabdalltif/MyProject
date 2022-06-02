@@ -1,1 +1,4 @@
 git clone link git repo لاستنساخها علي جهازي
+git add to add new file in area stage
+git reset head file name to remove file form stage
+git commit -m "message description"  to commit files to local
