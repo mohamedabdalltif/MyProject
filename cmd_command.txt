@@ -1,9 +1,0 @@
-git clone link git repo لاستنساخها علي جهازي
-git add to add new file in area stage
-git reset head file name to remove file form stage
-git commit -m "message description"  to commit files to local
-git branch  return the branch you work on
-git remote -v return the link of reote repositry
-git push remotelink branchName  push work to remote repo
-git pull remote path   get the new update from remote to local and merge it to local 
-
