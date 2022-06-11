@@ -1,0 +1,6 @@
+# all file with exe log ignore it
+*.log  
+# all file with exe log ignore it except this
+!vip.log
+# any folder have this name
+node_modules/ 
